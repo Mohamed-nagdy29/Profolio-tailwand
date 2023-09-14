@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Profolio-tailwand/static/css/main.3f2378f0.css",
-    "main.js": "/Profolio-tailwand/static/js/main.ff840ebc.js",
+    "main.css": "/Profolio-tailwand/static/css/main.946da627.css",
+    "main.js": "/Profolio-tailwand/static/js/main.3a16f8f4.js",
     "static/media/web3.png": "/Profolio-tailwand/static/media/web3.474d2f62046d80c610d2.png",
     "static/media/web2.png": "/Profolio-tailwand/static/media/web2.b8de62551b5f41a77356.png",
     "static/media/web1.png": "/Profolio-tailwand/static/media/web1.b81ae95cc95d487b20fc.png",
@@ -13,11 +13,11 @@
     "static/media/consulting.png": "/Profolio-tailwand/static/media/consulting.2dc7284300c84181539e.png",
     "static/media/code.png": "/Profolio-tailwand/static/media/code.f4f54b48494bb8e30d1a.png",
     "index.html": "/Profolio-tailwand/index.html",
-    "main.3f2378f0.css.map": "/Profolio-tailwand/static/css/main.3f2378f0.css.map",
-    "main.ff840ebc.js.map": "/Profolio-tailwand/static/js/main.ff840ebc.js.map"
+    "main.946da627.css.map": "/Profolio-tailwand/static/css/main.946da627.css.map",
+    "main.3a16f8f4.js.map": "/Profolio-tailwand/static/js/main.3a16f8f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f2378f0.css",
-    "static/js/main.ff840ebc.js"
+    "static/css/main.946da627.css",
+    "static/js/main.3a16f8f4.js"
   ]
 }
