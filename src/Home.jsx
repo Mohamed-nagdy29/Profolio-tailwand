@@ -21,7 +21,7 @@ const Home = () => {
       <div className={darakMode ? "dark" : ""}>
         <main className="dark:bg-gray-900 bg-slate-400 ">
           <section className="py-10 ">
-            <nav className="px-48 flex items-center justify-between pb-9  fixed mx-auto left-0 right-0">
+            <nav className="px-48 flex-col flex top-0 md:flex-row items-center md:t justify-between pb-9  fixed mx-auto left-0 right-0 gap-7">
               <h1 className="font-bold text-[25px] dark:text-stone-600">
                 developed
               </h1>
@@ -35,7 +35,7 @@ const Home = () => {
                 <li>
                   <a
                     href="#"
-                    className="bg-gradient-to-r from-cyan-500 to-teal-700 text-white py-4 px-5 ml-4"
+                    className="  bg-gradient-to-r from-cyan-500 to-teal-700 text-white py-4 px-5 ml-4"
                   >
                     Resume
                   </a>
